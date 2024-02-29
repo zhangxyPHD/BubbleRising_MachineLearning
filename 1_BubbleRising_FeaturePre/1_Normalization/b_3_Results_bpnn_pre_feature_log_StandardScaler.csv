@@ -1,0 +1,7 @@
+target_col,r2,nrmse,mape(%),best_params
+maxVelocity,0.99974,0.0031,1.534%,activation=relu;alpha=0.01;batch_size=32;hidden_layer_sizes=(100; 100; 100);learning_rate_init=0.001;solver=lbfgs
+Ratio,0.93839,0.0413,1.758%,activation=relu;alpha=0.001;batch_size=32;hidden_layer_sizes=(25; 25; 25);learning_rate_init=0.001;solver=lbfgs
+max_ratio,0.99690,0.0083,1.734%,activation=relu;alpha=0.001;batch_size=32;hidden_layer_sizes=(25; 25);learning_rate_init=0.001;solver=lbfgs
+L_bounce_center,0.99308,0.0130,2992.814%,activation=tanh;alpha=0.001;batch_size=32;hidden_layer_sizes=(25; 25);learning_rate_init=0.001;solver=lbfgs
+L_bounce_upper,0.98438,0.0182,11677.588%,activation=tanh;alpha=0.001;batch_size=32;hidden_layer_sizes=(100;);learning_rate_init=0.001;solver=lbfgs
+t_last,0.99465,0.0089,9.653%,activation=tanh;alpha=0.001;batch_size=32;hidden_layer_sizes=(100;);learning_rate_init=0.001;solver=lbfgs

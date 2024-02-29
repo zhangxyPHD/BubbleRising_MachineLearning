@@ -1,0 +1,7 @@
+target_col,r2,nrmse,mape(%),best_params
+maxVelocity,0.96326,0.0371,9.962%,C=100;epsilon=0.1;gamma=1;kernel=rbf
+Ratio,0.92274,0.0462,2.410%,C=100;epsilon=0.01;gamma=1;kernel=rbf
+max_ratio,0.99501,0.0105,5.351%,C=100;epsilon=0.1;gamma=1;kernel=rbf
+L_bounce_center,0.94486,0.0368,18265.955%,C=100;epsilon=0.1;gamma=10;kernel=rbf
+L_bounce_upper,0.89946,0.0461,4014.161%,C=100;epsilon=0.001;gamma=1;kernel=rbf
+t_last,0.90113,0.0384,16.750%,C=100;epsilon=1;gamma=10;kernel=rbf

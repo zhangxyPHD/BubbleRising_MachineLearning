@@ -1,0 +1,7 @@
+target_col,r2,nrmse,mape(%),best_params
+maxVelocity,0.99928,0.0052,1.249%,max_depth=None;min_samples_leaf=1;min_samples_split=2;n_estimators=500
+Ratio,0.98461,0.0206,0.881%,max_depth=None;min_samples_leaf=1;min_samples_split=2;n_estimators=400
+max_ratio,0.99501,0.0105,1.015%,max_depth=None;min_samples_leaf=1;min_samples_split=2;n_estimators=100
+L_bounce_center,0.99060,0.0152,101.761%,max_depth=None;min_samples_leaf=1;min_samples_split=2;n_estimators=400
+L_bounce_upper,0.98760,0.0162,424.700%,max_depth=None;min_samples_leaf=1;min_samples_split=2;n_estimators=400
+t_last,0.99449,0.0091,4.289%,max_depth=None;min_samples_leaf=1;min_samples_split=2;n_estimators=200

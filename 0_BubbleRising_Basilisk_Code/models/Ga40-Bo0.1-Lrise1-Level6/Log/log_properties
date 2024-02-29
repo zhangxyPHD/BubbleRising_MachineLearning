@@ -1,0 +1,3 @@
+domainSize 8, minLevel 5, maxLevel 9 
+rho1 0.001, rho2 1, mu1 0.00025 mu2 0.025, sigma 1.00e+01, g 1.0
+Galilei number 40, Bond number 1.00e-01
