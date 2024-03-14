@@ -1,4 +1,4 @@
-# BubbleRising_MachineLearning
+# Machine learning enhanced exploration of bubble dynamics beneath horizontal wall
 ## 0_BubbleRising_Basilisk_Code
 ### Multi-task running scripts
 run_script.sh
